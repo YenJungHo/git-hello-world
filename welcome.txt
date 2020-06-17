@@ -1,1 +1,3 @@
 hello git
+i am beginer to git
+i want to be a expert in software engineer.
